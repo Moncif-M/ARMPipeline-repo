@@ -20,6 +20,6 @@ steps:
     location: 'France Central'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Moncif-M/ARMPipeline-repo/refs/heads/main/create_web_app/azuredeploy.json'
-    overrideParameters: '-projectName armpipe029viber'
+    overrideParameters: '-projectName armppl029v'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
